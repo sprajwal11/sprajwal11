@@ -4,6 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sprajwal11&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 - 🌱 I’m currently learning Spring Boot, Python and JavaScript
+- 🔭 I’m currently working on Metronome project on JavaScript
 - 💬 Ask me about tech, music and history
 - 📫 How to reach me:
    - [Email: prajwal11@duck.com](mailto:prajwal11@duck.com)
