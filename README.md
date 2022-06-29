@@ -1,6 +1,8 @@
 ### Hi, I'm Prajwal! 👋
 
 
+![Prajwal Banner](https://user-images.githubusercontent.com/82059926/176481186-deec5443-8386-4a6d-951c-76d0913183e9.png)
+
 <img src="https://github-readme-stats.vercel.app/api?username=sprajwal11&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 - 🌱 I’m currently learning Spring Boot, Python and JavaScript
