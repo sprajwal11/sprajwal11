@@ -1,7 +1,8 @@
 ### Hi, I'm Prajwal! 👋
 
 
-![Prajwal Banner](https://user-images.githubusercontent.com/82059926/176481186-deec5443-8386-4a6d-951c-76d0913183e9.png)
+![Prajwal Banner Twitter New](https://user-images.githubusercontent.com/82059926/176501473-9ee9878f-8f9d-4ba2-971a-b692796cdfe7.png)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=sprajwal11&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
