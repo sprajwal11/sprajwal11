@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Spring Boot, Python and JavaScript
 - 💬 Ask me about tech, music and history
 - 📫 How to reach me:
+   - [Email: prajwal11@duck.com](mailto:prajwal11@duck.com)
    - [Twitter: @an_alive_human](https://twitter.com/an_alive_human)
    - [Linkedin: /prajwal11](https://www.linkedin.com/in/prajwal11/)
 - 😄 Pronouns: He/His
