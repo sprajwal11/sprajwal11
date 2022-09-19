@@ -54,7 +54,7 @@ Now I don't know how to quit !
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am also a live musician(bassist)
 
-
+<!--
 [![Prajwal's github activity graph](https://activity-graph.herokuapp.com/graph?username=sprajwal11&theme=xcode)](https://github.com/sprajwal11/github-readme-activity-graph)
 
 
@@ -62,7 +62,7 @@ Now I don't know how to quit !
 
 
 
-<!--
+
 
 
 **sprajwal11/sprajwal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
